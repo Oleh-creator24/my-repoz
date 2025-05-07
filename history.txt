@@ -1,0 +1,427 @@
+    1  cd
+    2  ssh-keygen
+    3  cat ./ssh/id_
+    4  ls -la
+    5  cat .ssh/id_ed25519.pub
+    6  cd /
+    7  ssh ec2-user@linux.itcareerhub.de
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  ssh ec2-user@linux.itcareerhub.de
+   10  cd
+   11  cat .ssh/id_ed25519.pub 
+   12  ssh  ec2-user@linux.itcareerhub.de
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  pwd
+   17  cd
+   18  cat .ssh/id_ed25519.pub
+   19  df -h
+   20  ssh ec2-user@linux.itcareerhub.de
+   21  pwd
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  mkdir -p 21_03
+   24  cd 21_3
+   25  pwd
+   26  mkdir -p 21_03
+   27  cd 21_03
+   28  scp ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/21.txt .
+   29  ls -l
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt .
+   32  pwd
+   33  cd 21_3
+   34  cd 21_03
+   35   sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt .
+   36  sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt .
+   37  ls -l
+   38  cd /21_03
+   39  pwd
+   40  cd 21_03
+   41  sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt .
+   42  ls -l
+   43  ssh ec2-user@linux.itcareerhub.de
+   44  ssh ec2-user@linux.itcareerhub.de
+   45  pwd
+   46  cd 21_03
+   47  sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt
+   48  sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/process_management.txt .
+   49   sep ec2-user@linux.itcareerhub.de:/opt/210225-ptm/Oleg/21.txt .
+   50  ssh ec2-user@linux.itcareerhub.de
+   51  ssh ec2-user@linux.itcareerhub.de
+   52  ssh ec2-user@linux.itcareerhub.de
+   53  ssh ec2-user@linux.itcareerhub.de
+   54   ssh ec2-user@linux.itcareerhub.de
+   55  ssh ec2-user@linux.itcareerhub.de
+   56  ssh ec2-user@linux.itcareerhub.de
+   57  cd 21_03
+   58  scp ec2-user@linux.itcareerhub.de:/tmp/file1.txt .
+   59  ls -l
+   60  cd kalim
+   61  cd
+   62  cd kalim
+   63  cd Oleg
+   64  ssh ec2-user@linux.itcareerhub.de
+   65  ssh ec2-user@linux.itcareerhub.de
+   66  ssh ec2-user@linux.itcareerhub.de
+   67  ssh ec2-user@linux.itcareerhub.de
+   68  solo4
+   69  ssh ec2-user@linux.itcareerhub.de
+   70  cd
+   71  cd /linux
+   72  cd linux
+   73  ls
+   74  mkdir -p git_intro
+   75  lc
+   76  ls
+   77  sep OneDrive/Bogdan-Личное/Изображение/Снимки экрана/24-03-15173233 linux/git_intro/
+   78  cd git_intro
+   79  sep OneDrive/Bogdan-Личное/Изображение/Снимки экрана/24-03-15173233 .
+   80  cp /OneDrive/Bogdan-Личное/Изображение/Снимки экрана/24-03-15173233 .
+   81  sep D/photo_2025-02-10_10-18-42 .
+   82  cp /D/photo_2025-02-10_10-18-42 . 
+   83  tree
+   84  cat git_intro
+   85  cd
+   86  tree linux/git_intro (main)
+   87  ls
+   88  ls -la
+   89  tree
+   90  cd /
+   91  cd
+   92  cd /linux
+   93  ls
+   94  ls-la
+   95  ls -la
+   96  chmod 777 linux
+   97  ls -la
+   98  git init
+   99  git add photo_2025-02-10_10-18-42 
+  100  git commit -m "Added photo"
+  101  git branch Kalimbetoleh@gmail.com
+  102  git branch -M main
+  103  git remote add origin git@github.com:Oleh-creator24/git_intro.git
+  104  git push -u origin main
+  105  git push -u Oleh-creator24 
+  106  cd
+  107  cd
+  108  cd linux
+  109  cd git_intro 
+  110  git init
+  111  git add README.md 
+  112  git commit -m "Added photo" 
+  113  git branch -M main
+  114  git remote add origin git@github.com:Oleh-creator24/git_intro.git
+  115  git push -u origin main 
+  116  git commit -m "first commit"
+  117  git add README.md
+  118  git commit -m "first commit"
+  119  git branch -M main
+  120  git push -u origin main 
+  121  cd
+  122  mkdir -p linux
+  123  cd linux
+  124  ls
+  125  echo "# linux" >> README.md
+  126  ls
+  127  git init
+  128  git status
+  129  git add .
+  130  git status
+  131  git commit -m "first commit"
+  132  git config --global user.email "KalimbetOleh@gmail.com"
+  133  git config --global user.email "KalimbetOleh@gmail.com"
+  134  git config --global user.name "Oleh-creator24"
+  135  git remote add origin git@github.com:Oleh-creator24/linux.git
+  136  git push -u origin main
+  137  git push -u origin main
+  138  git commit -m "first commit"
+  139  git push -u origin main
+  140  git branch -M main
+  141  git push -u origin main
+  142  mkdir -p HW_10
+  143  cd HW_10/
+  144  touch new
+  145  cd ..
+  146  mkdir -p HW_11
+  147  git status
+  148  git add .
+  149  git status
+  150  git commit -m "edet fail new HW_10"
+  151  git push
+  152  ls-la
+  153  ls -la
+  154  git log
+  155  history
+  156  cd
+  157  cd git_intro
+  158  echo "# git_intro" >> README.md
+  159  git init
+  160  git add README.md
+  161  git commit -m "Added photo"
+  162  git branch -M main
+  163  git remote add origin git@github.com:Oleh-creator24/git_intro.git
+  164  git push -u origin main
+  165  cd
+  166  mkdir -p Oleg
+  167  cd Oleg
+  168  echo "# Oleg" >> README.md
+  169  git init
+  170  git add README.md
+  171  git commit -m "Proba "
+  172  git branch -M main
+  173  git remote add origin git@github.com:Oleh-creator24/Oleg.git
+  174  git push -u origin main
+  175  ssh ec2-user@linux.itcareerhub.de
+  176  cd /
+  177  tree
+  178  ls -la
+  179  nano dz_9.txt
+  180  ssh ec2-user@linux.itcareerhub.de
+  181  ssh ec2-user@linux.itcareerhub.de
+  182  ssh ec2-user@linux.itcareerhub.de
+  183  ssh ec2-user@linux.itcareerhub.de
+  184  cd /
+  185  echo "# git-branch" >> README.md
+  186  git init
+  187  git add README.md
+  188  it commit -m "first commit"
+  189  git branch -M main
+  190  git remote add origin git@github.com:Oleh-creator24/git-branch.git
+  191  git push -u origin main
+  192  cd /
+  193  echo "# git-branch" >> README.md
+  194  git init
+  195  cd /
+  196  echo "# git-branch" >> README.md
+  197  chmod 754 MINGW64
+  198  echo "# git-branch" >> README.md
+  199  mkdir -p git-branch
+  200  cd /
+  201  cd git-branch
+  202  cd /git-branch
+  203  cd /0804
+  204  mkdir -p git-branch
+  205  cd /git-branch
+  206  cd
+  207  cd /
+  208  cd
+  209  mkdir -p git-branch
+  210  cd /git-branch
+  211  echo "# git-branch" >> README.md
+  212  git init
+  213  git add README.md
+  214  git commit -m "first commit"
+  215  git branch -M main
+  216  git remote add origin git@github.com:Oleh-creator24/git-branch.git
+  217  git push -u origin main
+  218  cd /git-branch
+  219  cd
+  220  cd /git-branch
+  221  cd /git-branch
+  222  git ststus
+  223  git status
+  224  tree
+  225  cd 
+  226  cd /git-branch
+  227  cd
+  228  cd ~/git-branch
+  229  git status
+  230  ssh ec2-user@linux.itcareerhub.de
+  231  cd
+  232  mkdir -p solo
+  233  cd / solo
+  234  cd /
+  235  cd
+  236  cd /
+  237  cd / solo
+  238  cd 
+  239  cd /solo
+  240  cd /Mein0804
+  241  mkdir -p /Mein0804/kolo
+  242  cd / Mein0804
+  243  cd
+  244  mkdir -p stop
+  245  cd /stop
+  246  echo "# stop" >> README.md
+  247  git init
+  248  git add README.md
+  249  git commit -m "first commit"
+  250  git branch -M main
+  251  git remote add origin git@github.com:Oleh-creator24/stop.git
+  252  git push -u origin main
+  253  cd /stop
+  254  cd 
+  255  cd
+  256  rm-rf.git
+  257  cd ..
+  258  rm-rf.git
+  259  cd ..
+  260  rm-rf.git
+  261  git rev-parse --show-toplevel
+  262  cd 
+  263  rm -rf.git
+  264  rm -rf .git
+  265  mkdir git-merge-vs-rebase
+  266  cd  git-merge-vs-rebase
+  267  git init
+  268  git branch -M main
+  269  echo "Привет, мир!" > file.txt
+  270  git add file.txt
+  271  git commit  -m "init first commit file.txt"
+  272  git checkaut -b feafture
+  273  git checkout -b feature
+  274  echo " feature 1 " >> file.txt 
+  275  git commit -am "feat: добавлена первая фича"
+  276  eccho " feature 2 " >> file.txt
+  277  git commit -am "feat: добавлена вторая фича"
+  278  git branch
+  279  gin checkout main
+  280  git checkout main
+  281  git branch
+  282  echo " feature 3 " >> file.txt 
+  283  git status
+  284  git merge feature 
+  285  git status
+  286  nano file.txt
+  287  git log --oneline --graph --all
+  288  git commit -am " объединили веткт "
+  289  git log --oneline --graph --all
+  290  cd
+  291  cd
+  292  / cd
+  293  cd
+  294  mkdir git-conflict-demo
+  295  cd git-conflict-demo
+  296  git init
+  297  git branch -M main
+  298  echo "Привет, мир!" > file.txt
+  299  ls
+  300  git status
+  301  git add file.txt
+  302  git commit -m "init: добавлен приветственный текст"
+  303  git checkout -b feature
+  304  echo "Эта строка добавлена в ветке feature" >> file.txt
+  305  git commit -am " добавлена строка в ветке фича "
+  306  git checkout main
+  307  echo "рролл " >> file.txt
+  308  git add .
+  309  git commit -m " добавлена строка tedk "
+  310  git merge feature 
+  311  git status
+  312  nano file.txt
+  313  git status
+  314  git add .
+  315  git status
+  316  git commit -m " решили конфликт и соед ветки "
+  317  git log -- oneline
+  318  git log -- oneline -- graph
+  319   git log -- oneline --graph
+  320  git log --oneline
+  321  git log --oneline --graph
+  322  git reset --hard HEAD~1
+  323  git checkout feature
+  324  git status
+  325  nano file.txt
+  326  echo " что нибудь " >> test.txt
+  327  git add .
+  328  git commit -m " bbhbjjnjn "
+  329  git log
+  330  git commit --amend
+  331  git log
+  332  git status
+  333  git log —oneline
+  334  git log --oneline
+  335  git reset --soft HEAD~1
+  336  git commit -m " last update "
+  337  git reset --mixed HEAD~1
+  338  git log --oneline
+  339  git status
+  340  git add .
+  341  git commit -m " last update "
+  342  git reset --hard HEAD~1
+  343  ls -l
+  344  git checkout main
+  345  nano .gitignore
+  346  git commit -am "  gfhfjkf"
+  347  touch 1.jpg
+  348  git status
+  349  git add .
+  350  git commit -am "  gfhfjkf giu "
+  351  ssh ec2-user@linux.itcareerhub.de
+  352  cd
+  353  git branch
+  354  mkdir / Stol1
+  355  mkdir Stol1
+  356  mkdir korona
+  357  cd korona
+  358  echo "# korona" >> README.md
+  359  git init
+  360  git add .
+  361  git commit -m "first commit"
+  362  git branch -M main
+  363  git remote add origin git@github.com:Oleh-creator24/korona.git
+  364  git push -u origin main
+  365  git checkout -b feature
+  366  vi .gitignore
+  367  nano .gitignjre 
+  368  git status
+  369  git add .
+  370  git commit -m " proverka "
+  371  git push -u origin feature
+  372  cd
+  373  git remote -v
+  374  git remote add upstream 
+  375  / git-PR
+  376  cd /git-PR
+  377  cat .gitignore
+  378  cd /korona
+  379  cd korona
+  380   git branch -M main
+  381  / git-PR
+  382  cd git PR
+  383  cd git-PR
+  384  / cd
+  385  cd
+  386  cd git-PR
+  387  ssh ec2-user@linux.itcareerhub.de
+  388  git clone https://github.com/ваш_ник/learning_git.git
+  389  cd learning_git
+  390  git clone https://github.com/Oleh-creator24/learning_git.git
+  391  cd learning_git
+  392  mkdir -p 210225-ptm
+  393  cd 210225-ptm
+  394  touch Oleg.txt
+  395  cd ..
+  396  git add .
+  397  git commit -m "Добавил файл Oleg.txt в папку 210225-ptm "
+  398  git push origin main
+  399  oiollknkklhvhhgfcfgfc
+  400  ssh ec2-user@linux.itcareerhub.de
+  401  mailto:ec2-user@linux.itcareerhub.de
+  402  ssh ec2-user@linux.itcareerhub.de
+  403  cd
+  404  echo "# my-repoz" >> README.md
+  405  git init
+  406  git add README.md
+  407  git commit -m "first commit"
+  408  git branch -M main
+  409  git remote add origin git@github.com:Oleh-creator24/my-repoz.git
+  410  git push -u origin main
+  411  cd my-repoz.git
+  412  git checkout -b feature
+  413  echo "## Новый функционал" >> README.md
+  414  echo "# Игнорировать логи" >> .gitignore
+  415  echo "*.log" >> .gitignore
+  416  git add README.md .gitignore
+  417  git commit -m "Добавлены изменения в README и .gitignore"
+  418  git push origin feature
+  419  git commit --amend -m "Добавлены изменения в README и .gitignore (amend)"
+  420  git push origin feature --force
+  421  cd
+  422  /
+  423  / cd
+  424  git checkout main
+  425  git merge feature
+  426  git push origin main
+  427  history > history.txt
